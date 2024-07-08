@@ -1,0 +1,25 @@
+.footer{
+    margin-top: 30px;
+    display: flex;
+    padding-top: 10px;
+    justify-content: space-around;
+    box-shadow:  0 -6px 26px #2271D1;
+}
+@media (max-width: 890px) {
+    .footer{
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        padding-top: 10px;
+        align-items: center;
+        
+        box-shadow:  0 -6px 26px #2271D1;
+    }
+    h2{
+        font-size: 20px;
+    }
+    img{
+        width: 100px;
+        height: 50px;
+    }
+}

@@ -1,0 +1,20 @@
+.info{
+    display: flex;
+    justify-content: space-around;
+}
+.info1{
+    width: 40%;
+}
+.info2{
+    width: 40%;
+}
+.image{
+    width: 500px;
+    border-radius: 5%;
+
+}
+.video{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}

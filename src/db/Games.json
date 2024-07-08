@@ -1,0 +1,74 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "Aventura",
+      "juegos": [ {
+        "id": "1",
+        "nombre": "God of war",
+        "descripcion": "Libera el poder de los dioses y embárcate en una búsqueda despiadada como Kratos, un ex guerrero espartano impulsado a destruir a Ares, el dios de la guerra. Armado con letales espadas de cadena dobles, Kratos debe atravesar las criaturas más oscuras de la mitología, incluidas Medusa, Cyclops, Hydra y más, mientras resuelve intrincados acertijos en entornos impresionantes. Impulsado por pura venganza, nada puede impedir que Kratos consiga la absolución.",
+        "img": "https://images4.alphacoders.com/289/thumb-1920-2898.jpg",
+        "video": "https://www.youtube.com/watch?v=Hf2adVqQn3g&t=10s"
+      },
+      {
+        "id": "2",
+        "nombre": "Shadow of the Tomb Raider",
+        "descripcion": "Experimenta el momento decisivo de Lara Croft cuando se convierte en Tomb Raider. En Shadow of the Tomb Raider, Lara debe dominar una jungla mortal, superar tumbas aterradoras y perseverar en su hora más oscura. Mientras corre para salvar al mundo de un apocalipsis maya, Lara finalmente se convertirá en la Tomb Raider que está destinada a ser. Sobrevive y prospera en el lugar más mortífero de la Tierra: domina un entorno selvático implacable para sobrevivir. Explora entornos submarinos llenos de grietas y sistemas de túneles profundos.",
+        "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/capsule_616x353.jpg?t=1709834464",
+          "video": "https://www.youtube.com/watch?v=XYtyeqVQnRI"
+      },
+      {
+        "id": "3",
+        "nombre": "Soul reaver",
+        "descripcion": "El juego se desarrolla 1500 años después de los acontecimientos de Blood Omen. Cuenta la historia de Raziel, un teniente vampiro del ejército de Kain. Kain casi mata a Raziel y lo arroja al Lago de los Muertos. Sin embargo, un dios anciano salva a Raziel de la muerte y lo convierte en un ladrón de almas para ayudarlo a vengarse de Kain.",
+        "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224920/header.jpg?t=1684279050",
+          "video": "https://www.youtube.com/watch?v=NLKTI-YPKgg"
+      },
+      {
+        "id": "4",
+        "nombre": "Soul reaver",
+        "descripcion": "Hace 1500 años, el señor de los vampiros Kain conquistó el mundo de fantasía de Nosgoth y estableció una nueva raza de vampiros inmortales. El Dios Antiguo, que ve a los vampiros como una abominación contra el ciclo de la vida, se opone a Kain. Cuando Kain mató a su lugarteniente Raziel, el Dios Antiguo devolvió la vida al hombre muerto para luchar contra Kain. Al comienzo de Soul Reaver 2, tanto Raziel como Kain viajan en el tiempo a las antiguas eras de Nosgoth. Ambos intentan alterar la historia a su favor. Raziel descubre que es la única persona en Nosgoth que puede evadir su destino predefinido, por lo que se enfrenta a un dilema: ¿debería seguir su pasado predeterminado para derrotar a Kain o debería liberarse de las ataduras del destino?",
+        "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224940/capsule_616x353.jpg?t=1699903852",
+          "video": "https://www.youtube.com/watch?v=D0crSCNXXss"
+      }
+      ]
+    },
+    {
+      "id": "2",
+      "nombre": "Acción",
+      "juegos": [ {
+        "id": "3",
+        "nombre": "Prince of Persia: Las arenas del tiempo",
+        "descripcion": "El Príncipe ha regresado! Experimenta la historia clásica que redefinió los juegos de acción y aventuras en esta nueva versión a gran escala para una nueva generación. Eres el Príncipe de Persia. Embárcate en un viaje para salvar tu reino del traicionero Visir. Domina las Arenas del Tiempo y usa tu daga para revertir, acelerar, congelar y ralentizar el tiempo. Lucha contra enemigos malditos y resuelve acertijos en el camino.",
+        "img": "https://pivigames.blog/wp-content/uploads/2017/05/prince-of-persia-the-sands-of-time-torrent-download-kickass-indir.png"
+      },
+      {
+        "id": "4",
+        "nombre": "Assassin’s Creed Brotherhood",
+        "descripcion": "Derrotar a los tiranos corruptos atrincherados allí requerirá no sólo fuerza, sino también liderazgo, ya que Ezio comanda toda una Hermandad que se unirá a su lado. Sólo trabajando juntos podrán los Asesinos derrotar a sus enemigos mortales. Y por primera vez, presentamos una capa multijugador galardonada que te permite elegir entre una amplia gama de personajes únicos, cada uno con sus propias armas y técnicas de asesinato, y comparar tus habilidades con las de otros jugadores de todo el mundo.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9JUWOayUwmK_knVPYuz51v-ZoqJQd3lOVA&usqp=CAU"
+      }
+      
+      ]
+    },
+    {
+      "id": "3",
+      "nombre": "deportes",
+      "juegos": [ {
+        "id": "4",
+        "nombre": "F1 2018",
+          "descripcion": "F1® 2018 es el videojuego oficial del CAMPEONATO MUNDIAL DE FÓRMULA UNO FIA 2018™. Sumérgete en el mundo de la Fórmula 1® más que nunca. Construya su reputación tanto dentro como fuera de la pista, con entrevistas con los medios de comunicación con poco tiempo que influyen en su trayectoria profesional en la F1. ¿Exhibe deportividad o talento para el espectáculo? ¿Desarrollarás tu equipo hasta la cima o enviarás a tu agente para que apunte a un equipo y piloto rival? F1 2018 te permite controlar tu destino. o Más coches de F1 clásicos que nunca o Impresionantes gráficos y nuevos circuitos para 2018: Paul Ricard y Hockenheim",
+        "img": "https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2018/08/f1-2018_5.jpg?tf=3840x"
+      },
+      {
+        "id": "8",
+        "nombre": "Rocket League",
+        "descripcion": "Un juego de fútbol altamente competitivo con cohetes es la forma más completa de describir este juego. Técnicamente, una secuela del juego anterior de Psyonix: Supersonic Acrobatic Rocket-Powered Battle-Cars; Rocket League se convirtió con éxito en una sensación independiente que cualquiera puede disfrutar. Las mecánicas del juego, fáciles de aprender y difíciles de dominar, son perfectas para controles estrictos. Los jugadores están invitados a maniobrar en los diferentes campos dentro de varios modos de juego, desde arcade hasta juegos clasificados, ya sea 1 contra 1 o en equipos 2 contra 2 y 3 contra 3.",
+        "img": "https://www.rocketleague.com/images/keyart/rl_evergreen.jpg",
+         "video": "https://www.rocketleague.com/images/keyart/rl_evergreen.jpg"
+      }
+      ]
+    }
+   
+  ]
+}

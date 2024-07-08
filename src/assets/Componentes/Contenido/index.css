@@ -1,0 +1,29 @@
+
+.contenido {
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden; 
+
+  padding-bottom: 20px; 
+}
+/* scroll */
+.contenido::-webkit-scrollbar {
+  height: 14px; 
+}
+
+
+.contenido::-webkit-scrollbar-track {
+ 
+  margin-left: 30px;
+  margin-right: 30px;
+
+}
+
+.contenido::-webkit-scrollbar-thumb {
+  background-color: #2271D1; 
+  border-radius: 10px; 
+}
+
+.contenido::-webkit-scrollbar-thumb:hover {
+  background-color: #2271d198; 
+}
