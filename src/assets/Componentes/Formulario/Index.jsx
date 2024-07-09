@@ -37,8 +37,8 @@ const Formu = ({ categorias, setCategorias, gameToEdit }) => {
   const Submit = (event) => {
     event.preventDefault();
     const validationErrors = validate();
-    if (validationErrors.length > 0) {
-      setErrors(validationErrors);
+    if (Object.keys(validationErrors).length > 0) { // Changed this line
+      setErrors(validationErrors); // No change
     } else {
       const updatedCategorias = [...categorias];
       const matchingCategory = updatedCategorias.find(category => category.nombre === inputs.categoria);
