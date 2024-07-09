@@ -20,6 +20,9 @@ form {
     grid-template-columns: 1fr 1fr; 
     gap: 20px; 
   }
+  input{
+    color: white;
+  }
 
 
 form input, form select {
@@ -41,6 +44,7 @@ form input, form select {
     border-radius: 4px;
     width: 100%;
     box-sizing: border-box;
+    color: white;
   }
   
   button{
@@ -102,5 +106,24 @@ form input, form select {
     .box{
       margin: auto 15px;
   }
+  .error {
+    color: red!important;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+}
+@media (max-width: 426px) {
+  
+    form {
+      display: grid;
+      grid-template-columns: 1fr; 
+      gap: 15px; 
+    }
+    .error {
+      display: inline;
+      color: red!important;
+      font-size: 12px;
+      margin-top: 5px;
+    }
   }
   
