@@ -28,7 +28,7 @@
   
   .buttons .boton {
     color: white;
-    background-color: #3498db;
+    background-color: #3498db!important;
     padding: 4px 16px;
     border: none;
     cursor: pointer;
@@ -39,7 +39,7 @@
   }
   
   .buttons .boton:hover {
-    background-color: #2980b9; 
+    background-color: #2980b9!important; 
   }
   .linkGame{
     background: transparent;
