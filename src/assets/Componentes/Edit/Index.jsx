@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 
 import Formu from '../Formulario/Index';
 import Footer from '../Footer/Index';
+import Header from '../Header/Header';
 
 const EditGame = ({ categorias, setCategorias }) => {
   const { id } = useParams();
@@ -36,7 +37,8 @@ const EditGame = ({ categorias, setCategorias }) => {
 
   return (
     <div>
-      <h2>Editar Juego</h2>
+      <Header />
+      
       {game ? (
         <Formu categorias={categorias} gameToEdit={game} onSave={handleSave} />
       ) : (
